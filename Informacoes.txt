@@ -1,0 +1,1 @@
+Aplicação para gestão de manutençao, será desenvolvido em tecnologia java, utilizando spring framework
