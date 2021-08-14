@@ -1,2 +1,2 @@
-# Gestor-de-Manuencao
+# Gestor-de-Manutencao
 Aplicativo gestão de manutenção
